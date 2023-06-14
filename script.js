@@ -1,5 +1,5 @@
 function changeBackgroundColor(value) {
-	document.body.style.backgroundColor=value;
+	document.body.style.backgroundColor = value;
 }
 
 /*

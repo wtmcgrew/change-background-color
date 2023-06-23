@@ -4,10 +4,19 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+
+	<!-- External Stylesheet -->
+	<link href="stylesheet.css" rel="stylesheet" type="text/css">
+
 	<title>Color Switcher</title>
 </head>
 <body>
 	<div>
+		<h1>Change Background Color</h1>
+
 		<select onchange="changeBackgroundColor(this.value)"> <!-- This keyword invokes whatever object is targeted (value in this case) -->
 			<option value="">Choose Background Color:</option>
 			<option value="red">Red</option>

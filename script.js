@@ -9,5 +9,5 @@ Defined function chnagedBackgroundColor and passed through value as argument fro
 
 Whatever the value is set to will change background color of page
 
-body.style adds style attribute to body element on HTMl
+body.style adds style attribute to body element on HTML
 */

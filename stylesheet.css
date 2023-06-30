@@ -1,7 +1,10 @@
+* {
+	font-family: 'Quicksand', sans-serif;
+}
+
 body {
 	height: 100vh;
 	color: #ffffff;
-	font-family: 'Quicksand', sans-serif;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -24,6 +27,5 @@ select {
 	width: 100%;
 	cursor: pointer;
 	font-size: 17.6px;
-	font-family: 'Quicksand', sans-serif;
 	padding: 20.8px;
 }
